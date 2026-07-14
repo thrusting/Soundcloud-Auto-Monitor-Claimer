@@ -1,0 +1,3 @@
+- Mass checks lists of usernames repeateadly until available using mass oauth tokens.
+- Auto monitors availability and when a user is/has become free the tool will autoclaim it onto a random token you provide in auths.txt.
+- Image of tool claim and discord webhook notification: https://ibb.co/QjMCjKxS
